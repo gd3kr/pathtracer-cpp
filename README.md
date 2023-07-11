@@ -36,6 +36,9 @@ super simple path tracer I wrote in in c plus plus as an exercise
 - dont
 
 
+### reference
+https://raytracing.github.io/books/RayTracingInOneWeekend.html
+
 
 
 
