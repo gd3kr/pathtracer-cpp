@@ -2,7 +2,7 @@
 #define CAMERA_H
 
 
-#include "rtweekend.h"
+#include "common.h"
 
 class camera{
     public: 

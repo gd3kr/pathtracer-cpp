@@ -1,4 +1,4 @@
-#include "rtweekend.h"
+#include "common.h"
 
 #include "color.h"
 #include "hittable_list.h"
