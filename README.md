@@ -13,6 +13,9 @@ XXxx++--..
 
 super simple path tracer I wrote in in c plus plus as an exercise
 
+![download (54)](https://github.com/gd3kr/pathtracer-cpp/assets/63528145/b47e7b74-2e58-49ca-adf7-a86743a054ff)
+
+
 ### currently supported materials
 
 1. diffuse
@@ -31,6 +34,8 @@ super simple path tracer I wrote in in c plus plus as an exercise
 
 ### how do I use it?
 - dont
+
+
 
 
 
